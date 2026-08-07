@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-a2pfzv.electrolabslabel.com/sitemap.xml
